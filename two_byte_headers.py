@@ -1,0 +1,2 @@
+DISALLOW_LIST =[b'\xff\xd8', b'\x4d\x5a', b'\xca\xfe', b'\x89\x50', b'\x50\x4b', b'\x00\x00', b'\x52\x49', b'\x47\x49', b'\x7f\x45', b'\x3c\x48', b'\xd0\xcf', b'\x3c\x68', b'\x3c\x21', b'\x4d\x53', b'\x52\x61', b'\x42\x4d']
+#              JPEG,        EXE,         Java,        PNG,         Zip,         misc bins,   RIFF,        GIF,         ELF,         HTML,        OLE2,        HTML,        HTML,        CAB,        Rar,          BMP
